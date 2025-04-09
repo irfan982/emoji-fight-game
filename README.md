@@ -6,7 +6,7 @@ A fun, lightweight web-based game where two random emoji characters go head-to-h
 
 Click the "Pick Fighters!" button and watch two random emojis battle it out!
 
-![screenshot](images/arena.jpg)
+![screenshot](https://png.pngtree.com/thumb_back/fh260/background/20231213/pngtree-empty-mma-arena-under-spotlights-boxing-ring-image_15516677.jpg)
 
 ## 📁 Files
 
@@ -29,7 +29,7 @@ Click the "Pick Fighters!" button and watch two random emojis battle it out!
 
 ## 📷 Preview
 
-![preview](images/arena.jpg)
+![preview](https://png.pngtree.com/thumb_back/fh260/background/20231213/pngtree-empty-mma-arena-under-spotlights-boxing-ring-image_15516677.jpg)
 
 ## 📦 Setup
 
